@@ -46,7 +46,7 @@ Análisis de datos de dos hoteles portugueses para obtener información sobre el
 
 <img src="https://i.ibb.co/mRH2r2b/god.png" width="500" height="210"/>
 
-## 6. Análisis de ventas
+## 7. Análisis de ventas
 
 Respondiendo preguntas de negocio para obtener información sobre los productos vendidos durante el año.
 
