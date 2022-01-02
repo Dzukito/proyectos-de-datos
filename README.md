@@ -42,8 +42,15 @@ Link a Kaggle: https://www.kaggle.com/federicoseijo/21-pilots-discography-analys
 
 ## 6. Hotel booking
 
-Análisis de datos de dos hoteles portugueses para obtener información sobre el comportamiento de sus huespedes.
+Análisis de datos de dos hoteles portugueses para obtener información sobre el comportamiento de sus huespedes y reservas canceladas.
 
-<img src="https://i.ibb.co/Qjt6cNX/descarga.png" width="350"/>
+<img src="https://i.ibb.co/mRH2r2b/god.png" width="500" height="210"/>
 
+## 6. Análisis de ventas
+
+Respondiendo preguntas de negocio para obtener información sobre los productos vendidos durante el año.
+
+<img src="https://i.ibb.co/Y8SPScD/god-damn.png" width="500" height="180" />
+
+Fuente: https://github.com/KeithGalli/Pandas-Data-Science-Tasks
 
