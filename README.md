@@ -54,3 +54,11 @@ Respondiendo preguntas de negocio para obtener información sobre los productos 
 
 Fuente: https://github.com/KeithGalli/Pandas-Data-Science-Tasks
 
+## 8. Web Scraping: creación de un Dataset de películas
+
+Usando scraping para crear un set de datos de películas de Disney con información de Wikipedia, aplicando librerias como Beautiful Soup.
+
+<img src="https://i.ibb.co/PCRJ6HB/TOYSTORY-VEVENT-BOX.png" width="500" height="300" />
+
+
+
